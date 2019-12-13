@@ -2,9 +2,9 @@
 
 ## Exercise I
 
-a) This algorithm would be O(n). n _ n _ n in the while loop, but a gets updated with n \* n --> n
+a) This algorithm would be O(n). n \* n \* n in the while loop, but a gets updated with n \* n --> n
 
-b) This algorithm would be O(n log n)(base 2). while loop is log n (base 2) because j _= 2, and the range is n. --> n_ log n
+b) This algorithm would be O(n log n)(base 2). while loop is log n (base 2) because j \*= 2, and the range is n. --> n log n
 
 c) This algorithm would be O(n). Even though it's a recursive call, there is n operations.
 
